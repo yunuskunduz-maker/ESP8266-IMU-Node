@@ -22,17 +22,17 @@ Kart, üzerindeki **MPU-6050** sensörü sayesinde ivme ve jiroskop verilerini o
 ### 1. 3D Görünüm (3D Render)
 Kartın son halinin 3 boyutlu render görüntüsü. Pil yuvası ve ESP modülünün yerleşimi optimize edilmiştir.
 
-![3D View](assets/pcb-3d-top-view.png)
+![3D View](assets/pcb-3d-top-view.jpg)
 
 ### 2. PCB Yerleşimi (Layout & Routing)
 Çift katmanlı (2-Layer) tasarım. RF (Anten) kısmında sinyal bütünlüğü için "Keep-out" alanlarına dikkat edilmiştir. Güç hatları (Power planes) gürültüyü azaltmak için geniş tutulmuştur.
 
-![PCB Layout](assets/pcb-layout-routing.png)
+![PCB Layout](assets/pcb-layout-routing.jpg)
 
 ### 3. Devre Şeması (Schematic)
 Sistemin güç yönetimi ve sensör bağlantılarını gösteren devre şeması.
 
-![Schematic](assets/schematic-diagram.png)
+![Schematic](assets/schematic-diagram.jpg)
 
 ## 🚀 Kullanım Alanları
 * Uzaktan titreşim analizi (Makine sağlığı izleme).
