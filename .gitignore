@@ -1,0 +1,7 @@
+# KiCad Copleri
+*.lck
+*.kicad_prl
+*.bak
+fp-info-cache
+*-backups/
+_autosave-*
